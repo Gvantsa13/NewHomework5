@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59f294eb-57b4-4d7e-8b7b-18abbd3efb9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataObject/LoginPageData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StepObject/LoginPageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ChromeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="59f294eb-57b4-4d7e-8b7b-18abbd3efb9a" name="Changes" comment="საცდელი კომიტი">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="44437df6-9dc1-4376-9ce3-6e3c887a7078" />
+        <option name="url" value="https://github.com/Gvantsa13/NewHomework5" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2UztKY0rhKjXfh5xd4IJq4M6SlB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,23 +44,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/buadzgva/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestAutoCourse/NewHomework5",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "application.passwordSafe"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG./Users/buadzgva/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestAutoCourse/NewHomework5/testng.xml">
     <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewHomework5" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.UnsuccessfulLoginCheck" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewHomework5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
+      <option name="METHOD_NAME" value="UnsuccessfulLoginCheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -76,6 +93,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/buadzgva/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestAutoCourse/NewHomework5/testng.xml" />
+        <item itemvalue="TestNG.LoginPageTest.UnsuccessfulLoginCheck" />
         <item itemvalue="TestNG.LoginPageTest" />
       </list>
     </recent_temporary>
@@ -89,9 +107,43 @@
       <option name="presentableId" value="Default" />
       <updated>1693954173815</updated>
     </task>
+    <task id="LOCAL-00001" summary="საცდელი კომიტი">
+      <option name="closed" value="true" />
+      <created>1693960698853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693960698853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="საცდელი კომიტი" />
+    <option name="LAST_COMMIT_MESSAGE" value="საცდელი კომიტი" />
   </component>
 </project>

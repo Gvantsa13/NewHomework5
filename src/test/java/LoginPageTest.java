@@ -25,6 +25,7 @@ public class LoginPageTest extends ChromeRunner {
 
     @Test
     @Description("არარეგისტრირებელი მეილით შესვლის მცდელობა")
+    @Severity(SeverityLevel.BLOCKER)
     public void UnsuccessfulLoginCheck_2(){
         loginPageSteps.ClickProfileIcon()
                 .goToLoginAccount()
